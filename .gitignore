@@ -1,2 +1,11 @@
 .idea/
 .wakatime-project
+
+*.iml
+client.bin
+client.json
+out/
+outputfolder/
+test_utf16.txt
+test_utf8.txt
+
